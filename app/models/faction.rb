@@ -1,0 +1,3 @@
+class Faction < ApplicationRecord
+
+end
